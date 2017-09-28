@@ -1,0 +1,95 @@
+
+		body{
+			margin: 0;
+		}
+
+		.top{
+			background-image: url('../images/Los_ninos_indigos_joya_life_3_2.png');
+			background-repeat: no-repeat;
+			background-size: cover;
+			color: white;
+		}
+
+		.top h1{
+			margin-top: 100px ;
+		}
+		.top h5{
+			margin-bottom: 100px ;
+		}
+
+		.top .jumbotron{
+			background-color: transparent;
+		}
+
+		.navbar{
+			margin-bottom: 0;
+		}
+
+		.jumbotron{
+			margin-bottom: 0;
+		}
+		
+		.productos{
+			margin-top: 100px;
+			padding: 20px;
+
+		}
+
+		.productos h1{
+			margin-bottom: 50px;
+		}
+
+		.noticias{
+			margin-top: 100px;
+		}
+
+		.noticias h1{
+			margin-bottom: 50px;
+		}
+
+		.videos{
+			margin-top: 100px;
+		}
+		
+		.videos h1{
+			margin-bottom: 50px;
+		}
+
+		.page-footer{
+			margin-top: 100px;
+		}
+		.page-footer iframe{
+			height: 280px;
+			width: 280px;
+			border: 0;
+		}
+
+		.page-footer li{
+			display: block;
+			list-style: none;
+		}
+
+		.imagen-carrusel{
+			margin: 0 auto;
+			max-height: 400px;
+		}
+
+		.glyphicon{
+			color: black;
+		}
+
+		.carrusel{
+			margin-top: 70px;
+		}
+
+		.carrusel h1{
+			margin-bottom: 50px;
+		}
+
+		.ancla::before{       
+			display: block;            
+ 			margin-top: 120px;   
+			height: 400px;     
+			visibility: hidden;
+		} 
+
